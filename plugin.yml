@@ -1,0 +1,10 @@
+name: AntiPCninza
+main: ninza\AntiPC
+version: 1.0
+api: 3.0.0
+author: Ninza313
+website: https://vk.com/ninza313
+
+commands:
+ license:
+  description: Разрешить/запретить вход с пк
